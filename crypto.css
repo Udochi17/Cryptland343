@@ -311,20 +311,20 @@ input {
 .feat-img-attached1,
 .feat-img-attached2 {
     position: absolute;
-    max-width: 270px;
+    max-width: 270px; 
     z-index: 1;
 }
 
 .feat-img-attached1 {
     right: 50px;
     bottom: -95px;
-    
+    width: 60%;
 }
 
 .feat-img-attached2 {
     bottom: -100px;
     left: -60px;
-    width: 220px;
+    width: 50%;
 }
 
 .container {
